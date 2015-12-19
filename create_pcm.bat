@@ -18,14 +18,14 @@ wav2msu -o mmx2_msu1-13.pcm -l 228080 mmx2_password.wav
 wav2msu -o mmx2_msu1-14.pcm mmx2_crystal_snail.wav
 wav2msu -o mmx2_msu1-15.pcm mmx2_stage_start.wav
 wav2msu -o mmx2_msu1-16.pcm -l 220584 mmx2_zero.wav
-wav2msu -o mmx2_msu1-17.pcm mmx2_xhunter_stage2.wav
+wav2msu -o mmx2_msu1-17.pcm mmx2_x_hunter_stage2.wav
 wav2msu -o mmx2_msu1-18.pcm -l 139551 mmx2_stage_select2.wav
 wav2msu -o mmx2_msu1-19.pcm mmx2_stage_clear.wav
 wav2msu -o mmx2_msu1-20.pcm mmx2_opening.wav
 wav2msu -o mmx2_msu1-21.pcm -l 134697 mmx2_another_boss1.wav
 wav2msu -o mmx2_msu1-22.pcm -l 126199 mmx2_boss_intro.wav
 wav2msu -o mmx2_msu1-23.pcm -l 39228 mmx2_get_a_weapon.wav
-wav2msu -o mmx2_msu1-24.pcm -l 171602 mmx2_xhunter_stage1.wav
+wav2msu -o mmx2_msu1-24.pcm -l 171602 mmx2_x_hunter_stage1.wav
 wav2msu -o mmx2_msu1-26.pcm -l 154965 mmx2_opening_stage.wav
 wav2msu -o mmx2_msu1-27.pcm mmx2_demo.wav
 wav2msu -o mmx2_msu1-28.pcm mmx2_sigma1.wav
